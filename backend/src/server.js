@@ -17,6 +17,7 @@ const allowedOrigins = [
   'http://localhost:5173',
   'http://localhost:5174',
   'https://desgin-fix.vercel.app',
+  'https://desgin-two.vercel.app',
   process.env.FRONTEND_URL
 ].filter(Boolean);
 
